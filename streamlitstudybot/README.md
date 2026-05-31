@@ -25,13 +25,13 @@
 ## 🖼️ Captures d'écran
 
 ### Mode Chat
-![Mode Chat](docs/screenshot-chat1.png)
-![Mode Chat](docs/screenshot-chat2.png)
+![Mode Chat](docs/Screenshot-chat1.png)
+![Mode Chat](docs/Screenshot-chat2.png)
 
 ### Mode Examen
-![Mode Examen](docs/screenshot-exam1.png)
-![Mode Examen](docs/screenshot-exam2.png)
-![Mode Examen](docs/screenshot-exam3.png)
+![Mode Examen](docs/Screenshot-exam1.png)
+![Mode Examen](docs/Screenshot-exam2.png)
+![Mode Examen](docs/Screenshot-exam3.png)
 
 ---
 
